@@ -1,0 +1,19 @@
+{
+    "jobs": [
+        { "title": "Ninja UX Designer", "id": 1, "details": "Ux designer Detailed"
+        },
+        { "title": "Ninja Web Developer", "id": 2, "details": "website Developer Detailed"
+        },
+        { "title": "Ninja Vue Developer", "id": 3, "details": "vue Developer Detailed"
+        }
+    ],
+
+    "posts": [
+        { "id": 1, "title": "Welcome to Blog 1", "body": "the post is very good"
+        },
+        { "id": 2, "title": "Blog 2", "body": "Blog 2 is NOT that very good"
+        },
+        { "id": 3, "title": "Bonjour Blog 3",  "body": "This is French Blog"
+        }
+    ]
+}
